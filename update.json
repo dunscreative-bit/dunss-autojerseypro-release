@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "product": "Dunss AutoJersey Pro",
+  "support": {
+    "whatsappUrl": "https://wa.me/6282331419847"
+  },
+  "stable": {
+    "version": "1.1.0",
+    "releaseUrl": "https://github.com/dunscreative-bit/dunss-autojerseypro-release/releases/tag/v1.1.0",
+    "downloadUrl": "https://github.com/dunscreative-bit/dunss-autojerseypro-release/releases/download/v1.1.0/DunssAutoJerseyProSetup.exe",
+    "notes": [
+      "Preview multi-panel dan penerapan wireframe dilengkapi indikator progres.",
+      "Mode semua panel menata objek sumber langsung dan menyesuaikan ukuran artboard.",
+      "Mode 1 panel per halaman menyalin objek ke halaman hasil.",
+      "Peningkatan pada Numerator, Preflight, dan tampilan panel."
+    ]
+  },
+  "preview": {
+    "version": "1.1.1-preview.1",
+    "features": [
+      "Mode 3 mengutamakan chain block lengan panjang sebelum lengan pendek.",
+      "Pola lengan dapat tersusun bertingkat selama jarak aman tetap terpenuhi.",
+      "Panel Lisensi menampilkan info update dan tautan dukungan."
+    ]
+  }
+}
