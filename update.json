@@ -5,13 +5,13 @@
     "whatsappUrl": "https://wa.me/6282331419847"
   },
   "stable": {
-    "version": "1.2.0",
+    "version": "1.2.1",
     "releaseUrl": "https://github.com/dunscreative-bit/dunss-autojerseypro-release/releases/latest",
     "downloadUrl": "https://github.com/dunscreative-bit/dunss-autojerseypro-release/releases/latest/download/DunssAutoJerseyProSetup.exe",
     "notes": [
-      "Mode 3 mengutamakan penyusunan blok lengan panjang sebelum lengan pendek.",
-      "Peningkatan penataan interlock lengan panjang dengan pemeriksaan jarak aman.",
-      "Tab Lisensi menampilkan informasi update, dukungan, dan tautan rilis melalui browser."
+      "Posisi nomor dada kiri dan kanan kini mengikuti sudut pandang pemakai jersey.",
+      "Label posisi nomor dada diperjelas agar membedakan sisi pemakai dari tampilan pola di CorelDRAW.",
+      "Aturan posisi nama dada tidak berubah."
     ]
   }
 }
