@@ -5,13 +5,16 @@
     "whatsappUrl": "https://wa.me/6282331419847"
   },
   "stable": {
-    "version": "1.2.1",
+    "version": "1.3.0",
     "releaseUrl": "https://github.com/dunscreative-bit/dunss-autojerseypro-release/releases/latest",
     "downloadUrl": "https://github.com/dunscreative-bit/dunss-autojerseypro-release/releases/latest/download/DunssAutoJerseyProSetup.exe",
     "notes": [
-      "Posisi nomor dada kiri dan kanan kini mengikuti sudut pandang pemakai jersey.",
-      "Label posisi nomor dada diperjelas agar membedakan sisi pemakai dari tampilan pola di CorelDRAW.",
-      "Aturan posisi nama dada tidak berubah."
+      "Rotasi bebas pola non-badan kini menjadi opsi terpisah; pola badan tetap mengikuti orientasi utama.",
+      "Output Numerator menyesuaikan ketersediaan pola pada halaman aktif.",
+      "Warna nomor punggung, dada, celana, dan lengan dapat diatur secara independen.",
+      "Nomor lengan mendukung target kiri, kanan, atau kedua lengan dengan posisi dan offset yang dapat diatur.",
+      "Posisi nama dada dan nomor dada kini diatur secara global di Pengaturan Huruf dan Tampilan.",
+      "Nomor dada kosong mengikuti nomor punggung; nama dada kosong mengikuti nama punggung."
     ]
   }
 }
